@@ -13,7 +13,7 @@
 @import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Neptune/Neptune.theme.css');
 
 :root {
-  --neptune-main-bg: #212121;
+  --neptune-main-bg: #302f2f;
   --neptune-main-color: #cdaef3;
   --neptune-sec-color: #bb86fc;
   --neptune-home-icon: url(https://cdn.discordapp.com/attachments/922287059991953468/1101264938154066050/LHoroeU.png);
