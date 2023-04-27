@@ -20,8 +20,8 @@
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
-  --watermark-filter-hue-rotate: 150deg;
+  --watermark-filter-hue-rotate: 210deg;
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 200%;
-  --neptune-emoji-picker-color: 180deg;
+  --neptune-emoji-picker-color: 210deg;
 }
