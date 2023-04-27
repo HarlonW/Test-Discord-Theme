@@ -1,13 +1,13 @@
 /**
   * @name Test
-  * @author Me
+  * @author HarlonW
   * @version 1.0
   * @description dark
   * @authorId 468132563714703390
-  * @authorLink https://devevil.com
+  * @authorLink 
   * @source https://github.com/DevEvil99/Neptune-Discord-Theme
-  * @website https://devevil.com
-  * @invite jsQ9UP7kCA
+  * @website 
+  * @invite 
 */
 
 @import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Neptune/Neptune.theme.css');
